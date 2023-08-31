@@ -1,0 +1,5 @@
+.iconFooter{
+  width: 7vw;
+  display: flex;
+  justify-content: space-between;
+}
